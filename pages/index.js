@@ -132,7 +132,7 @@ export default function Home() {
         isWeb3Enabled ? (
           "Connected! "
         ) : (
-          <button onClick={() => enableWeb3()}>Connect</button>
+          <button onClick={() => enableWeb3()}>Connection testing teieih</button>
         )
       ) : (
         "Please install metamask"
